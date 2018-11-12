@@ -1,0 +1,35 @@
+{
+  "typeElement":{
+    "STAGE": "1",
+    "CONTAINER": "2",
+    "TEXT": "3",
+    "IMG": "4",
+    "AUDIO": "5",
+    "VIDEO": "6",
+    "IMAGE_TEXT": "7",
+    "IMAGE_AUDIO": "8",
+    "ANIMATED_SPRITE":"9"
+  },
+  "typeQuestion":{
+    "CHOICE":"1",
+    "FILLVACANCY":"2",
+    "CLASSIFY":"3",
+    "ONLINE":"4"
+  },
+  "undoType":{
+    "DELETE_STAGE":"1",
+    "DELETE":"2",
+    "ADD_STAGE":"3",
+    "ADD":"4",
+    "LOCK":"5",
+    "HIDE":"6",
+    "GROUP":"7",
+    "CANCEL_GROUP":"8",
+    "CHANGE_LAYER":"9",
+    "CHANGE_STAGE_LAYER":"10",
+    "CHANGE_PROPERTY":"11"
+  }
+}
+
+
+

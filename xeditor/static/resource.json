@@ -1,0 +1,82 @@
+{
+    "version": "0.0.1",
+    "list": [
+        {
+            "id": 0,
+            "ext": "jpg",
+            "name": "bgImg1",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/bg.jpg"
+        },
+        {
+            "id": 1,
+            "ext": "png",
+            "name": "test_option1",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/001-1.png"
+        },
+        {
+            "id": 2,
+            "ext": "png",
+            "name": "test_option2",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/001-2.png"
+        },
+        {
+            "id": 3,
+            "ext": "png",
+            "name": "test_option3",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/001-3.png"
+        },
+        {
+            "id": 4,
+            "ext": "png",
+            "name": "submit_btn",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/submit.png"
+        },
+        {
+            "id": 5,
+            "ext": "png",
+            "name": "test_option4",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/png3.png"
+        },
+        {
+            "id": 6,
+            "ext": "png",
+            "name": "test_option5",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/png4.png"
+        },
+        {
+            "id": 7,
+            "ext": "png",
+            "name": "test_option6",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/png5.png"
+        },
+        {
+            "id": 8,
+            "ext": "jpg",
+            "name": "jpg1717",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/jpg1717.jpg"
+        },
+        {
+            "id": 9,
+            "ext": "png",
+            "name": "next",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/next.png"
+        },
+        {
+            "id": 10,
+            "ext": "png",
+            "name": "prev",
+            "host": "localhost:8080:",
+            "src": "./static/imgs/prev.png"
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+  "document": [
+    {
+      "key": [
+        ["38","keydown","shiftKey"]
+      ],
+      "command": [
+        "CHECK_UP"
+      ]
+    },
+    {
+      "key": [
+        ["40","keydown","shiftKey"]
+      ],
+      "command": [
+        "CHECK_DOWN"
+      ]
+    },
+    {
+      "key": [
+        ["90","keydown","metakey"],
+        ["90","keydown","ctrlkey"]
+      ],
+      "command": [
+        "UNDO"
+      ]
+    },
+    {
+      "key": [
+        ["89","keydown","ctrlkey"],
+        ["89","keydown","metakey"]
+      ],
+      "command": [
+        "REDO"
+      ]
+    },
+    {
+      "key": [
+        ["189","keydown","shiftKey"]
+      ],
+      "command": [
+        "REDUCE_STAGE"
+      ]
+    },
+    {
+      "key": [
+        ["187","keydown","shiftKey"]
+      ],
+      "command": [
+        "BLOWUP_STAGE"
+      ]
+    },
+    {
+      "key": [
+        ["76","keydown","altkey","ctrlkey"],
+        ["76","keydown","altkey","metakey"]
+      ],
+      "command": [
+        "LOCK_ALL"
+      ]
+    },
+    {
+      "key": [
+        ["76","keydown","ctrlkey"],
+        ["76","keydown","metakey"]
+      ],
+      "command": [
+        "LOCK"
+      ]
+    },
+    {
+      "key": [
+        ["76","keydown","altKey","ctrlkey","shiftKey"],
+        ["76","keydown","altKey","metakey","shiftKey"]
+      ],
+      "command": [
+        "CENCEL_LOCK_ALL"
+      ]
+    },
+    {
+      "key": [
+        ["72","keydown","altKey","metakey"],
+        ["72","keydown","altKey","ctrlkey"]
+      ],
+      "command": [
+        "HIDE_ALL"
+      ]
+    },
+    {
+      "key": [
+        ["72","keydown","metakey"],
+        ["72","keydown","ctrlkey"]
+      ],
+      "command": [
+        "HIDE"
+      ]
+    },
+    {
+      "key": [
+        ["72","keydown","altKey","ctrlkey","shiftKey"],
+        ["72","keydown","altKey","metakey","shiftKey"]
+      ],
+      "command": [
+        "CENCEL_HIDE_ALL"
+      ]
+    },
+    {
+      "key":[
+        ["49","keydown","altKey","ctrlKey"],
+        ["49","keydown","altKey","metakey"]
+      ],
+      "command":[
+        "ALIGN_LEFT"
+      ]
+    },
+    {
+      "key":[
+        ["50","keydown","altKey","metakey"],
+        ["50","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_LEVEL"
+      ]
+    },
+    {
+      "key":[
+        ["51","keydown","altKey","metakey"],
+        ["51","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_RIGTH"
+      ]
+    },
+    {
+      "key":[
+        ["52","keydown","altKey","metakey"],
+        ["52","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_TOP"
+      ]
+    },
+    {
+      "key":[
+        ["53","keydown","altKey","metakey"],
+        ["53","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_VERTICAL"
+      ]
+    },
+    {
+      "key":[
+        ["54","keydown","altKey","metakey"],
+        ["54","keydown","altKey","ctrlkey"]
+      ],
+      "command":[
+        "ALIGN_BOTTOM"
+      ]
+    },
+    {
+      "key":[
+        ["55","keydown","altKey","metakey"],
+        ["55","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_LEVEL_DISTRIBUTION"
+      ]
+    },
+    {
+      "key":[
+        ["57","keydown","altKey","metakey"],
+        ["57","keydown","altKey","ctrlKey"]
+      ],
+      "command":[
+        "ALIGN_VERTICAL_DISTRIBUTION"
+      ]
+    },
+    {
+      "key":[
+        ["32","keydown"]
+      ],
+      "command":[
+        "SPACEBAR_DOWN"
+      ]
+    },
+    {
+      "key":[
+        ["32","keyup"]
+      ],
+      "command":[
+        "SPACEBAR_UP"
+      ]
+    },
+    {
+      "key": [
+       ["67","keydown","ctrlKey"],
+       ["67","keydown","metakey"]
+      ],
+      "command": [
+        "COPY"
+      ]
+    },
+    {
+      "key": [
+        ["86","keydown","metakey"],
+        ["86","keydown","ctrlKey"]
+      ],
+      "command": [
+        "PASTE"
+      ]
+    },
+    {
+      "key": [
+        ["8","keydown"],
+        ["46","keydown"]
+      ],
+      "command": [
+        "DELETE"
+      ]
+    },
+    {
+      "key": [
+        ["65","keydown","ctrlKey"],
+        ["65","keydown","metakey"]
+      ],
+      "command": [
+        "CHECK_ALL"
+      ]
+    },
+    {
+      "key": [
+        ["65","keydown","metakey","altKey"],
+        ["65","keydown","ctrlKey","altKey"]
+      ],
+      "command": [
+        "CANCEL_CHECK_ALL"
+      ]
+    },
+    {
+      "key": [
+        ["38","keydown","ctrlKey"],
+        ["38","keydown","metakey"]
+      ],
+      "command": [
+        "UP_LAYER"
+      ]
+    },
+    {
+      "key": [
+        ["40","keydown","metakey"],
+        ["40","keydown","ctrlKey"]
+      ],
+      "command": [
+        "DOWN_LAYER"
+      ]
+    },
+    {
+      "key": [
+        ["40","keydown","metakey","shiftKey"],
+        ["40","keydown","ctrlKey","shiftKey"]
+      ],
+      "command": [
+        "END_LAYER"
+      ]
+    },
+    {
+      "key": [
+        ["38","keydown","metakey","shiftKey"],
+        ["38","keydown","ctrlKey","shiftKey"]
+      ],
+      "command": [
+        "STAER_LAYER"
+      ]
+    },
+    {
+      "key":[
+        ["71","keydown","metakey"],
+        ["71","keydown","ctrlKey"]
+      ],
+      "command":[
+        "GROUP"
+      ]
+    },
+    {
+      "key":[
+        ["71","keydown","metakey","shiftKey"],
+        ["71","keydown","ctrlKey","shiftKey"]
+      ],
+      "command":[
+        "CANCEL_GROUP"
+      ]
+    },
+    {
+      "key":[
+        ["mousemove"]
+      ],
+      "command":[
+        "MOUSE_MOVE"
+      ]
+    },
+    {
+      "key":[
+        ["mouseup"]
+      ],
+      "command":[
+        "MOUSE_UP"
+      ]
+    },
+    {
+      "key":[
+        ["mousedown"]
+      ],
+      "command":[
+        "MOUSE_DOWN"
+      ]
+    },
+    {
+      "key":[
+        ["mousewheel"]
+      ],
+      "command":[
+        "MOUSE_WHEEL"
+      ]
+    },
+    {
+      "key":[
+        ["37","keydown"]
+      ],
+      "command":[
+        "MOVE_LEFT"
+      ]
+    },
+    {
+      "key":[
+        ["38","keydown"]
+      ],
+      "command":[
+        "MOVE_UP"
+      ]
+    },
+    {
+      "key":[
+        ["39","keydown"]
+      ],
+      "command":[
+        "MOVE_RIGHT"
+      ]
+    },
+    {
+      "key":[
+        ["40","keydown"]
+      ],
+      "command":[
+        "MOVE_DOWN"
+      ]
+    },
+    {
+      "key":[
+        ["84","keyup"]
+      ],
+      "command":[
+        "NEW_TEXT"
+      ]
+    }
+    ],
+    "stage":[
+      {
+        "key":[
+          [ "metakey","pointerdown"],
+          [ "ctrlKey","pointerdown"]
+        ],
+        "command":[
+          "SELECT_MORE"
+        ]
+      },
+      {
+        "key":[
+          ["pointerdown"]
+        ],
+        "command":[
+          "SELECT_ONE"
+        ]
+      },
+      {
+        "key":[
+          ["dblclick"]
+        ],
+        "command":[
+          "STAGE_DBLCLICK"
+        ]
+      }
+    ]
+}

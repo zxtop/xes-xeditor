@@ -1,0 +1,109 @@
+
+
+
+[
+
+  {"key":"","command":"","describe":"删除元素"},//{ids:[]}
+  {"key":"","command":"","describe":"删除场景"},//{ids:[]}
+  {"key":"","command":"","describe":"新建场景"},
+
+  {"key":"","command":"","describe":"创建文本"},
+  {"key":"","command":"","describe":"创建图片元素"},//{src:""}
+  {"key":"","command":"","describe":"创建空容器"},
+  {"key":"","command":"","describe":"创建选项"},
+
+
+
+  {"key":"","command":"","describe":"元素层级上移"},//{ids:[],num:1}
+  {"key":"","command":"","describe":"元素层级下移"},//{ids:[],num:1}
+  {"key":"","command":"","describe":"元素层级置顶"},//{id:num}
+  {"key":"","command":"","describe":"元素层级置底"},//{id:num}
+
+
+  {"key":"","command":"","describe":"舞台层级上移"},//{ids:[],num:1}
+  {"key":"","command":"","describe":"舞台层级下移"},//{ids:[],num:1}
+  {"key":"","command":"","describe":"舞台层级置顶"},//{id:num}
+  {"key":"","command":"","describe":"舞台层级置底"},//{id:num}
+
+
+
+  {"key":"","command":"","describe":"锁定选中的元素"},//{ids:[]}
+  {"key":"","command":"","describe":"锁定全部的元素"},//{rootId:num}
+  {"key":"","command":"","describe":"取消选中的元素的锁定"},//{ids:[]}
+  {"key":"","command":"","describe":"取消全部元素的锁定"},//{rootId:num}
+
+
+
+  {"key":"","command":"","describe":"隐藏选中的元素"},//{ids:[]}
+  {"key":"","command":"","describe":"隐藏全部的元素"},//{rootId:}
+  {"key":"","command":"","describe":"取消选中的元素的隐藏"},//{ids:[]}
+  {"key":"","command":"","describe":"取消全部元素的隐藏"},//{rootId:[]}
+
+
+  {"key":"","command":"","describe":"元素旋转"},//{id:,num:1,pivot:}
+  {"key":"","command":"","describe":"元素x移动"},//{id:,num:1,pivot:}
+  {"key":"","command":"","describe":"元素y移动"},//{id:,num:1,pivot:}
+  {"key":"","command":"","describe":"元素x轴放大"},//{id:,num:1,pivot:}
+  {"key":"","command":"","describe":"元素y轴放大"},//{id:,num:1,pivot:}
+
+
+
+  {"key":"","command":"","describe":"容器注册点"},
+  {"key":"","command":"","describe":"元素(容器)变形点"},
+
+
+  {"key":"","command":"","describe":"舞台x移动"},//{id:,num:}
+  {"key":"","command":"","describe":"舞台y移动"},//{id:,num:}
+  {"key":"","command":"","describe":"舞台x缩放"},//{id:,num:}
+  {"key":"","command":"","describe":"舞台x缩放"},//{id:,num:}
+
+
+  {"key":"","command":"","describe":"上方向键元素上移"},//{ids:[],add:-1}
+  {"key":"","command":"","describe":"下方向键元素下移"},//{ids:[],add:1}
+  {"key":"","command":"","describe":"左方向健元素左移"},//{ids:[],add:-1}
+  {"key":"","command":"","describe":"右方向键元素右移"},//{ids:[],add:1}
+
+
+  {"key":"","command":"","describe":"上对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"下对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"左对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"右对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"水平居中对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"垂直居中对齐"},//{ids:[]}
+  {"key":"","command":"","describe":"垂直均匀分布"},//{ids:[]}
+  {"key":"","command":"","describe":"水平均匀分布"},//{ids:[]}
+
+
+  {"key":"","command":"","describe":"打组"},//{ids:[]}
+  {"key":"","command":"","describe":"拆组"},//{id:}
+  {"key":"","command":"","describe":"查找"},//{areaId:num,id:num}
+  {"key":"","command":"","describe":"权限判定"},//{ids:[]}
+  {"key":"","command":"","describe":"切换舞台(场景)"},//{sceneId:num}
+
+
+
+
+
+  {"key":"","command":"","describe":"撤销"},
+  {"key":"","command":"","describe":"反撤销"},
+  {"key":"","command":"","describe":"单选"},
+  {"key":"","command":"","describe":"多选"},
+  {"key":"","command":"","describe":"框选"},
+
+  {"key":"","command":"","describe":"复制元素"},//{ids:[]}
+  {"key":"","command":"","describe":"剪切元素"},//{ids:[]}
+  {"key":"","command":"","describe":"粘贴元素"},//{ids:[],jsons:[]}
+
+  {"key":"","command":"","describe":"复制舞台(场景)"},//{sceneId:num}
+
+  {"key":"","command":"","describe":"粘贴舞台(场景)"},//{sceneId:num}
+  {"key":"","command":"","describe":"编辑状态切换"}
+]
+
+
+
+
+//舞台场景概念
+//
+//指令参数 返回值格式确定
+

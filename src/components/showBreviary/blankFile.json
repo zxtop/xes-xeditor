@@ -1,0 +1,59 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "children": [
+    {
+      "name": "next",
+      "conName": "Subjection",
+      "groupType": "subjectnext",
+      "visible": true,
+      "alpha": 1,
+      "rectangle": [
+        0,
+        0,
+        210,
+        83
+      ],
+      "transform": [
+        1650,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "texture": {
+        "content": {
+          "default": 1001
+        },
+        "type": "4"
+      }
+    },
+    {
+      "name": "prev",
+      "conName": "Subjection",
+      "groupType": "subjectprev",
+      "visible": true,
+      "alpha": 1,
+      "rectangle": [
+        0,
+        0,
+        210,
+        83
+      ],
+      "texture": {
+        "content": {
+          "default": 1002
+        },
+        "type": "4"
+      }
+    }
+  ],
+  "texture": {
+    "content": [],
+    "type": "1"
+  }
+}
